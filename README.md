@@ -11,7 +11,7 @@ I’m focused on building **Internal Developer Platforms (IDP)**. I specialize i
 
 I am a core contributor to the **[PagoPA DevEx Monorepo](https://github.com/pagopa/dx)**, where I build tools to enhance the developer journey.
 * **[Custom Terraform Provider for Azure](https://registry.terraform.io/providers/pagopa-dx/azure/latest/docs)**: Lead developer of the Go-based provider used to manage internal platform services. [Source Code](https://github.com/pagopa/dx/tree/main/providers/azure).
-* **[SaveMoney Tool](https://github.com/pagopa/dx/tree/main/packages/savemoney)**: A TypeScript-based FinOps utility designed to identify and automate the lifecycle of cloud resources to reduce waste.
+* **[SaveMoney Tool](https://github.com/pagopa/dx/tree/main/apps/savemoney)**: A TypeScript-based FinOps utility designed to identify and automate the lifecycle of cloud resources to reduce waste.
 * **[AI-Powered Infra Skills](https://github.com/pagopa/dx/tree/main/plugins/terraform/skills/generate-terraform-module-diagram)**: Developed custom LLM skills for the internal marketplace, such as automatic Terraform module diagram generation.
 
 </details>
